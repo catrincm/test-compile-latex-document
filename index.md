@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## forall x: Bristol Remix
 
-You can use the [editor on GitHub](https://github.com/catrincm/test-compile-latex-document/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the formal logic textbook, *forall x: Bristol Remix*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download links:
 
-### Markdown
+-   [Textbook](https://catrincm.github.io/forallx-bris/forallxbris.pdf)
+-   [Accessible
+    Textbook](https://catrincm.github.io/forallx-bris/forallxbris-accessible.pdf)
+-   [Solutions
+    Book](https://catrincm.github.io/forallx-bris/forallxsol.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This book is based on forallx: Calgary by Aaron Thomas-Bolduc & Richard
+Zach University of Calgary used under a CC BY-SA 4.0 license, which is
+based on forallx: Cambridge, by Tim Button University of Cambridge used
+under a CC BY-SA 3.0 license, which is based in turn on forallx, by P.D.
+Magnus University at Albany, State University of New York used under a
+CC BY-SA 3.0 license. then altered by Catrin Campbell-Moore University
+of Bristol
 
-```markdown
-Syntax highlighted code block
+[![Creative Commons
+License](./forallxbris%20page_files/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-# Header 1
-## Header 2
-### Header 3
+This work is licensed under a [Creative Commons Attribution-ShareAlike
+4.0 International
+License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/catrincm/test-compile-latex-document/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The LaTeX source code for this work is available on GitHub at
+[github.com/catrincm/forallx-bris](https://github.com/catrincm/forallx-bris).
